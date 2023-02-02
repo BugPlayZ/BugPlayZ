@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Timon (Mostly known as BugPlayZ, bug, bugs, bugz or BuggingLegend) and I live in Switzerland specifically Aargau. I've started playing around with some Scripting-Languages and basics of the Unity-Engine around 5 Years ago and got really far since (Thanks to a lot of friends whom teached me or who I've teached).</p>
+<p align="left">My name is Timon (Mostly known as BugPlayZ, bug, bugs, bugz or even BuggingLegend) and I live in Switzerland specifically Aargau. I've started playing around with some Scripting-Languages and basics of the Unity-Engine around 5 Years ago and got really far since (Thanks to a lot of friends that tought me or that I've tought).</p>
 
 ###
 
