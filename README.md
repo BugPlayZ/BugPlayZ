@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">My name is Timon (Mostly known as BugPlayZ, bug, bugs, bugz or even BuggingLegend) and I live in Switzerland specifically Aargau. I've started playing around with some Scripting-Languages and basics of the Unity-Engine around 5 Years ago and got really far since (Thanks to a lot of friends that tought me or that I've tought).</p>
+<div align="left">
+  <p align="left">🇨🇭 Swiss based 🇨🇭</p>
+  <p align="left">17 years old</p>
+</div>
 
 ###
 
@@ -29,7 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo" />
+
 </div>
 
 ###
@@ -43,3 +47,25 @@
 </div>
 
 ###
+
+<p align="left">Tools that I am familliar with:</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" width="52" alt="svn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo" />
+          
+</div>
+
+###
+
+<p align="left">Databases I have worked with:</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo" />
+  <>
+</div>
