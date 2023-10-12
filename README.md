@@ -8,7 +8,7 @@
 
 <div align="left">
   <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png" height="16" alt="swiss flag"> Swiss based</p>
-  <p align="left">17 years old</p>
+  <p align="left">18 years old</p>
 </div>
 
 ###
